@@ -1,0 +1,5 @@
+C:\Users\aluno\Desktop\Desktop300424_SistemaFinanceiro\Apresentacao\obj\Debug\Apresentacao.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Desktop300424_SistemaFinanceiro\Apresentacao\obj\Debug\Apresentacao.frmCliente.resources
+C:\Users\aluno\Desktop\Desktop300424_SistemaFinanceiro\Apresentacao\obj\Debug\Apresentacao.Properties.Resources.resources
+C:\Users\aluno\Desktop\Desktop300424_SistemaFinanceiro\Apresentacao\obj\Debug\Apresentacao.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Desktop300424_SistemaFinanceiro\Apresentacao\obj\Debug\Apresentacao.csproj.CoreCompileInputs.cache
